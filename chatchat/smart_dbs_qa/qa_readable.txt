@@ -1,0 +1,126 @@
+=== DBS银行智能问答对数据集 ===
+生成时间: 2025-10-16 14:02:10
+总问答对数量: 24
+生成方法统计: {'fallback': 24}
+================================================================================
+
+1. 【个人银行】(fallback)
+   Q: 这项服务有哪些特点？
+   A: DBSSingapore提供全面的银行服务，包含多种特色功能。
+   来源: https://www.dbs.com.sg/personal/default.page
+
+2. 【个人银行】(fallback)
+   Q: 如何申请使用？
+   A: 可通过DBS官网、手机银行或前往分行申请，需要提供相关证明文件。
+   来源: https://www.dbs.com.sg/personal/default.page
+
+3. 【个人银行】(fallback)
+   Q: 相关费用是多少？
+   A: 具体费用根据产品类型和服务内容有所不同，请参考官方收费标准。
+   来源: https://www.dbs.com.sg/personal/default.page
+
+4. 【存款账户】(fallback)
+   Q: DBS有哪些储蓄账户类型？
+   A: DBSDeposits – Savings Account, Current Account, Fixed Deposit, Online Banking提供全面的银行服务，包含多种特色功能。
+   来源: https://www.dbs.com.sg/personal/deposits/default.page
+
+5. 【存款账户】(fallback)
+   Q: 开立储蓄账户需要什么条件？
+   A: 可通过DBS官网、手机银行或前往分行申请，需要提供相关证明文件。
+   来源: https://www.dbs.com.sg/personal/deposits/default.page
+
+6. 【存款账户】(fallback)
+   Q: 存款利率是多少？
+   A: 具体费用根据产品类型和服务内容有所不同，请参考官方收费标准。
+   来源: https://www.dbs.com.sg/personal/deposits/default.page
+
+7. 【信用卡】(fallback)
+   Q: DBS信用卡有哪些类型？
+   A: DBSBank Cards提供全面的银行服务，包含多种特色功能。
+   来源: https://www.dbs.com.sg/personal/cards/default.page
+
+8. 【信用卡】(fallback)
+   Q: 如何申请DBS信用卡？
+   A: 可通过DBS官网、手机银行或前往分行申请，需要提供相关证明文件。
+   来源: https://www.dbs.com.sg/personal/cards/default.page
+
+9. 【信用卡】(fallback)
+   Q: 信用卡年费是多少？
+   A: 具体费用根据产品类型和服务内容有所不同，请参考官方收费标准。
+   来源: https://www.dbs.com.sg/personal/cards/default.page
+
+10. 【保险】(fallback)
+   Q: DBS有哪些保险产品？
+   A: DBSGet Insurance Online with  Singapore提供全面的银行服务，包含多种特色功能。
+   来源: https://www.dbs.com.sg/personal/insurance/default.page
+
+11. 【保险】(fallback)
+   Q: 如何购买DBS保险？
+   A: 可通过DBS官网、手机银行或前往分行申请，需要提供相关证明文件。
+   来源: https://www.dbs.com.sg/personal/insurance/default.page
+
+12. 【保险】(fallback)
+   Q: 保险保费如何计算？
+   A: 具体费用根据产品类型和服务内容有所不同，请参考官方收费标准。
+   来源: https://www.dbs.com.sg/personal/insurance/default.page
+
+13. 【贷款】(fallback)
+   Q: DBS提供哪些贷款产品？
+   A: DBSLoan提供全面的银行服务，包含多种特色功能。
+   来源: https://www.dbs.com.sg/personal/loans/default.page
+
+14. 【贷款】(fallback)
+   Q: 贷款申请条件是什么？
+   A: 可通过DBS官网、手机银行或前往分行申请，需要提供相关证明文件。
+   来源: https://www.dbs.com.sg/personal/loans/default.page
+
+15. 【贷款】(fallback)
+   Q: 贷款利率如何？
+   A: 具体费用根据产品类型和服务内容有所不同，请参考官方收费标准。
+   来源: https://www.dbs.com.sg/personal/loans/default.page
+
+16. 【投资理财】(fallback)
+   Q: DBS有哪些投资产品？
+   A: DBSMutual Funds and Online Investment in Singapore with提供全面的银行服务，包含多种特色功能。
+   来源: https://www.dbs.com.sg/personal/investments/default.page
+
+17. 【投资理财】(fallback)
+   Q: 如何开始投资？
+   A: 可通过DBS官网、手机银行或前往分行申请，需要提供相关证明文件。
+   来源: https://www.dbs.com.sg/personal/investments/default.page
+
+18. 【投资理财】(fallback)
+   Q: 投资有风险吗？
+   A: 具体费用根据产品类型和服务内容有所不同，请参考官方收费标准。
+   来源: https://www.dbs.com.sg/personal/investments/default.page
+
+19. 【理财知识】(fallback)
+   Q: 这项服务有哪些特点？
+   A: DBSFinancial planning, money management tips in Singapore提供全面的银行服务，包含多种特色功能。
+   来源: https://www.dbs.com.sg/personal/learn/money-habits/our-approach.page
+
+20. 【理财知识】(fallback)
+   Q: 如何申请使用？
+   A: 可通过DBS官网、手机银行或前往分行申请，需要提供相关证明文件。
+   来源: https://www.dbs.com.sg/personal/learn/money-habits/our-approach.page
+
+21. 【理财知识】(fallback)
+   Q: 相关费用是多少？
+   A: 具体费用根据产品类型和服务内容有所不同，请参考官方收费标准。
+   来源: https://www.dbs.com.sg/personal/learn/money-habits/our-approach.page
+
+22. 【市场平台】(fallback)
+   Q: 这项服务有哪些特点？
+   A: DBSMarketplace: Travel, Home, Car, Health, Education Online提供全面的银行服务，包含多种特色功能。
+   来源: https://www.dbs.com.sg/personal/marketplace/
+
+23. 【市场平台】(fallback)
+   Q: 如何申请使用？
+   A: 可通过DBS官网、手机银行或前往分行申请，需要提供相关证明文件。
+   来源: https://www.dbs.com.sg/personal/marketplace/
+
+24. 【市场平台】(fallback)
+   Q: 相关费用是多少？
+   A: 具体费用根据产品类型和服务内容有所不同，请参考官方收费标准。
+   来源: https://www.dbs.com.sg/personal/marketplace/
+

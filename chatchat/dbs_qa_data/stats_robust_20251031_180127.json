@@ -1,0 +1,11 @@
+{
+  "total_qa_pairs": 100,
+  "generation_time": "2025-10-31 18:01:27",
+  "type_distribution": {
+    "信用卡": 40,
+    "存款账户": 20,
+    "贷款": 20,
+    "数字银行": 20
+  },
+  "average_answer_length": 116.6
+}

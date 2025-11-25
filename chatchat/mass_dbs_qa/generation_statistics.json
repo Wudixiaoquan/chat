@@ -1,0 +1,22 @@
+{
+  "total_qa_pairs": 1512,
+  "by_page_type": {
+    "综合服务": 45,
+    "存款账户": 680,
+    "信用卡": 680,
+    "贷款": 10,
+    "保险": 11,
+    "投资理财": 9,
+    "客户服务": 18,
+    "业务流程": 11,
+    "数字银行": 17,
+    "理财知识": 20,
+    "市场平台": 11
+  },
+  "by_generation_method": {
+    "sentence_based": 573,
+    "knowledge_based": 939
+  },
+  "generation_time": "2025-10-16 14:15:04",
+  "average_qa_per_doc": 30
+}

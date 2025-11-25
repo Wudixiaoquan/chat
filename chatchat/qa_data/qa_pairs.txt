@@ -1,0 +1,8 @@
+银行问答对数据集
+==================================================
+
+1. 问题: DBS Multiplier账户提供什么存款利率？
+   答案: 通过将工资转入DBS账户即可享受。
+   来源: https://www.dbs.com.sg/personal/default.page?pid=splitter-personal-dbs
+----------------------------------------
+

@@ -1,0 +1,218 @@
+[
+  {
+    "question": "这项服务有哪些特点？",
+    "answer": "DBSSingapore提供全面的银行服务，包含多种特色功能。",
+    "source": "https://www.dbs.com.sg/personal/default.page",
+    "title": "DBS Singapore - Asia's Safest Bank & Trusted Banking Partner",
+    "page_type": "个人银行",
+    "generation_time": "2025-10-16 14:02:10",
+    "method": "fallback"
+  },
+  {
+    "question": "如何申请使用？",
+    "answer": "可通过DBS官网、手机银行或前往分行申请，需要提供相关证明文件。",
+    "source": "https://www.dbs.com.sg/personal/default.page",
+    "title": "DBS Singapore - Asia's Safest Bank & Trusted Banking Partner",
+    "page_type": "个人银行",
+    "generation_time": "2025-10-16 14:02:10",
+    "method": "fallback"
+  },
+  {
+    "question": "相关费用是多少？",
+    "answer": "具体费用根据产品类型和服务内容有所不同，请参考官方收费标准。",
+    "source": "https://www.dbs.com.sg/personal/default.page",
+    "title": "DBS Singapore - Asia's Safest Bank & Trusted Banking Partner",
+    "page_type": "个人银行",
+    "generation_time": "2025-10-16 14:02:10",
+    "method": "fallback"
+  },
+  {
+    "question": "DBS有哪些储蓄账户类型？",
+    "answer": "DBSDeposits – Savings Account, Current Account, Fixed Deposit, Online Banking提供全面的银行服务，包含多种特色功能。",
+    "source": "https://www.dbs.com.sg/personal/deposits/default.page",
+    "title": "Deposits – Savings Account, Current Account, Fixed Deposit, Online Banking | DBS Singapore",
+    "page_type": "存款账户",
+    "generation_time": "2025-10-16 14:02:10",
+    "method": "fallback"
+  },
+  {
+    "question": "开立储蓄账户需要什么条件？",
+    "answer": "可通过DBS官网、手机银行或前往分行申请，需要提供相关证明文件。",
+    "source": "https://www.dbs.com.sg/personal/deposits/default.page",
+    "title": "Deposits – Savings Account, Current Account, Fixed Deposit, Online Banking | DBS Singapore",
+    "page_type": "存款账户",
+    "generation_time": "2025-10-16 14:02:10",
+    "method": "fallback"
+  },
+  {
+    "question": "存款利率是多少？",
+    "answer": "具体费用根据产品类型和服务内容有所不同，请参考官方收费标准。",
+    "source": "https://www.dbs.com.sg/personal/deposits/default.page",
+    "title": "Deposits – Savings Account, Current Account, Fixed Deposit, Online Banking | DBS Singapore",
+    "page_type": "存款账户",
+    "generation_time": "2025-10-16 14:02:10",
+    "method": "fallback"
+  },
+  {
+    "question": "DBS信用卡有哪些类型？",
+    "answer": "DBSBank Cards提供全面的银行服务，包含多种特色功能。",
+    "source": "https://www.dbs.com.sg/personal/cards/default.page",
+    "title": "DBS Bank Cards - Credit Cards, Debit Cards and More! | DBS Singapore",
+    "page_type": "信用卡",
+    "generation_time": "2025-10-16 14:02:10",
+    "method": "fallback"
+  },
+  {
+    "question": "如何申请DBS信用卡？",
+    "answer": "可通过DBS官网、手机银行或前往分行申请，需要提供相关证明文件。",
+    "source": "https://www.dbs.com.sg/personal/cards/default.page",
+    "title": "DBS Bank Cards - Credit Cards, Debit Cards and More! | DBS Singapore",
+    "page_type": "信用卡",
+    "generation_time": "2025-10-16 14:02:10",
+    "method": "fallback"
+  },
+  {
+    "question": "信用卡年费是多少？",
+    "answer": "具体费用根据产品类型和服务内容有所不同，请参考官方收费标准。",
+    "source": "https://www.dbs.com.sg/personal/cards/default.page",
+    "title": "DBS Bank Cards - Credit Cards, Debit Cards and More! | DBS Singapore",
+    "page_type": "信用卡",
+    "generation_time": "2025-10-16 14:02:10",
+    "method": "fallback"
+  },
+  {
+    "question": "DBS有哪些保险产品？",
+    "answer": "DBSGet Insurance Online with  Singapore提供全面的银行服务，包含多种特色功能。",
+    "source": "https://www.dbs.com.sg/personal/insurance/default.page",
+    "title": "Get Insurance Online with DBS Singapore",
+    "page_type": "保险",
+    "generation_time": "2025-10-16 14:02:10",
+    "method": "fallback"
+  },
+  {
+    "question": "如何购买DBS保险？",
+    "answer": "可通过DBS官网、手机银行或前往分行申请，需要提供相关证明文件。",
+    "source": "https://www.dbs.com.sg/personal/insurance/default.page",
+    "title": "Get Insurance Online with DBS Singapore",
+    "page_type": "保险",
+    "generation_time": "2025-10-16 14:02:10",
+    "method": "fallback"
+  },
+  {
+    "question": "保险保费如何计算？",
+    "answer": "具体费用根据产品类型和服务内容有所不同，请参考官方收费标准。",
+    "source": "https://www.dbs.com.sg/personal/insurance/default.page",
+    "title": "Get Insurance Online with DBS Singapore",
+    "page_type": "保险",
+    "generation_time": "2025-10-16 14:02:10",
+    "method": "fallback"
+  },
+  {
+    "question": "DBS提供哪些贷款产品？",
+    "answer": "DBSLoan提供全面的银行服务，包含多种特色功能。",
+    "source": "https://www.dbs.com.sg/personal/loans/default.page",
+    "title": "Loan - Unsecured Loan, Personal Loan, Low Interest Loan, HDB Loan, Education Loan, Car Loan | DBS Singapore",
+    "page_type": "贷款",
+    "generation_time": "2025-10-16 14:02:10",
+    "method": "fallback"
+  },
+  {
+    "question": "贷款申请条件是什么？",
+    "answer": "可通过DBS官网、手机银行或前往分行申请，需要提供相关证明文件。",
+    "source": "https://www.dbs.com.sg/personal/loans/default.page",
+    "title": "Loan - Unsecured Loan, Personal Loan, Low Interest Loan, HDB Loan, Education Loan, Car Loan | DBS Singapore",
+    "page_type": "贷款",
+    "generation_time": "2025-10-16 14:02:10",
+    "method": "fallback"
+  },
+  {
+    "question": "贷款利率如何？",
+    "answer": "具体费用根据产品类型和服务内容有所不同，请参考官方收费标准。",
+    "source": "https://www.dbs.com.sg/personal/loans/default.page",
+    "title": "Loan - Unsecured Loan, Personal Loan, Low Interest Loan, HDB Loan, Education Loan, Car Loan | DBS Singapore",
+    "page_type": "贷款",
+    "generation_time": "2025-10-16 14:02:10",
+    "method": "fallback"
+  },
+  {
+    "question": "DBS有哪些投资产品？",
+    "answer": "DBSMutual Funds and Online Investment in Singapore with提供全面的银行服务，包含多种特色功能。",
+    "source": "https://www.dbs.com.sg/personal/investments/default.page",
+    "title": "Mutual Funds and Online Investment in Singapore with DBS",
+    "page_type": "投资理财",
+    "generation_time": "2025-10-16 14:02:10",
+    "method": "fallback"
+  },
+  {
+    "question": "如何开始投资？",
+    "answer": "可通过DBS官网、手机银行或前往分行申请，需要提供相关证明文件。",
+    "source": "https://www.dbs.com.sg/personal/investments/default.page",
+    "title": "Mutual Funds and Online Investment in Singapore with DBS",
+    "page_type": "投资理财",
+    "generation_time": "2025-10-16 14:02:10",
+    "method": "fallback"
+  },
+  {
+    "question": "投资有风险吗？",
+    "answer": "具体费用根据产品类型和服务内容有所不同，请参考官方收费标准。",
+    "source": "https://www.dbs.com.sg/personal/investments/default.page",
+    "title": "Mutual Funds and Online Investment in Singapore with DBS",
+    "page_type": "投资理财",
+    "generation_time": "2025-10-16 14:02:10",
+    "method": "fallback"
+  },
+  {
+    "question": "这项服务有哪些特点？",
+    "answer": "DBSFinancial planning, money management tips in Singapore提供全面的银行服务，包含多种特色功能。",
+    "source": "https://www.dbs.com.sg/personal/learn/money-habits/our-approach.page",
+    "title": "Financial planning, money management tips in Singapore | DBS Singapore​",
+    "page_type": "理财知识",
+    "generation_time": "2025-10-16 14:02:10",
+    "method": "fallback"
+  },
+  {
+    "question": "如何申请使用？",
+    "answer": "可通过DBS官网、手机银行或前往分行申请，需要提供相关证明文件。",
+    "source": "https://www.dbs.com.sg/personal/learn/money-habits/our-approach.page",
+    "title": "Financial planning, money management tips in Singapore | DBS Singapore​",
+    "page_type": "理财知识",
+    "generation_time": "2025-10-16 14:02:10",
+    "method": "fallback"
+  },
+  {
+    "question": "相关费用是多少？",
+    "answer": "具体费用根据产品类型和服务内容有所不同，请参考官方收费标准。",
+    "source": "https://www.dbs.com.sg/personal/learn/money-habits/our-approach.page",
+    "title": "Financial planning, money management tips in Singapore | DBS Singapore​",
+    "page_type": "理财知识",
+    "generation_time": "2025-10-16 14:02:10",
+    "method": "fallback"
+  },
+  {
+    "question": "这项服务有哪些特点？",
+    "answer": "DBSMarketplace: Travel, Home, Car, Health, Education Online提供全面的银行服务，包含多种特色功能。",
+    "source": "https://www.dbs.com.sg/personal/marketplace/",
+    "title": "DBS Marketplace: Travel, Home, Car, Health, Education Online",
+    "page_type": "市场平台",
+    "generation_time": "2025-10-16 14:02:10",
+    "method": "fallback"
+  },
+  {
+    "question": "如何申请使用？",
+    "answer": "可通过DBS官网、手机银行或前往分行申请，需要提供相关证明文件。",
+    "source": "https://www.dbs.com.sg/personal/marketplace/",
+    "title": "DBS Marketplace: Travel, Home, Car, Health, Education Online",
+    "page_type": "市场平台",
+    "generation_time": "2025-10-16 14:02:10",
+    "method": "fallback"
+  },
+  {
+    "question": "相关费用是多少？",
+    "answer": "具体费用根据产品类型和服务内容有所不同，请参考官方收费标准。",
+    "source": "https://www.dbs.com.sg/personal/marketplace/",
+    "title": "DBS Marketplace: Travel, Home, Car, Health, Education Online",
+    "page_type": "市场平台",
+    "generation_time": "2025-10-16 14:02:10",
+    "method": "fallback"
+  }
+]
