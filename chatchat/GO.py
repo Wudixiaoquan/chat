@@ -18,8 +18,8 @@ logging.basicConfig(
 logger = logging.getLogger(__name__)
 
 # API configuration
-os.environ['OPENAI_API_KEY'] = 'sk-f53c2643235e4cc9938d72b267e02006'
-os.environ['OPENAI_API_BASE'] = 'https://api.deepseek.com'
+os.environ['OPENAI_API_KEY'] = ''
+os.environ['OPENAI_API_BASE'] = ''
 
 
 class RealDBSBankCrawler:
